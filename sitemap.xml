@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://joeycarter.github.io/post/take-a-science-course/</loc>
-    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://joeycarter.github.io/cv/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
   </url>
@@ -18,8 +13,13 @@
   </url>
   
   <url>
+    <loc>https://joeycarter.github.io/post/take-a-science-course/</loc>
+    <lastmod>2014-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://joeycarter.github.io/</loc>
-    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://joeycarter.github.io/tags/education/</loc>
-    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -41,19 +41,19 @@
   
   <url>
     <loc>https://joeycarter.github.io/post/</loc>
-    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joeycarter.github.io/tags/science/</loc>
-    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joeycarter.github.io/tags/</loc>
-    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2014-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
