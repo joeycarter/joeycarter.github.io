@@ -6,7 +6,7 @@
     <description>Recent content on Joey Carter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://joeycarter.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>CV</title>
       <link>https://joeycarter.github.io/cv/</link>
-      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://joeycarter.github.io/cv/</guid>
       <description>Education Ph.D. in Experimental High Energy Physics &amp;middot; In Progress
@@ -23,11 +23,21 @@ B.Sc. Honours Physics (Theory Stream) &amp;middot; 2016
 Minor in Biology &amp;amp; Minor in Mathematics
 Carleton University, Ottawa, ON
 
-Honours and Awards Edward Christie Stevens Awards In Nuclear Physics &amp;middot; 2017
-University of Toronto
-Faculty of Arts &amp;amp; Science Graduate Admission Award &amp;middot; 2016
-University of Toronto
-NSERC Canada Graduate Scholarships-Master’s &amp;middot; 2016 (Declined)</description>
+Honours and Awards Cray Inc. Fellowships In Physics &amp;middot; 2018
+University of Toronto &amp;middot; Graduate Fellowship
+Edward Christie Stevens Awards In Nuclear Physics &amp;middot; 2017
+University of Toronto &amp;middot; Graduate Fellowship
+University of Toronto Fellowship, Faculty of Arts &amp;amp; Science &amp;middot; 2016</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://joeycarter.github.io/research/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joeycarter.github.io/research/</guid>
+      <description>My primary research interest is the physics of elementary particles at the energy frontier. My research focuses on the ATLAS Experiment, a general purpose detector at CERN&amp;rsquo;s Large Hadron Collider (LHC) in Geneva, Switzerland, which I joined as an undergraduate in 2015 and continue to work on as a Ph.D. student at the University of Toronto.
+Using proton-proton collision data collected by ATLAS during Run-2 of the LHC, my data analysis activities have focused on Higgs boson physics and searches for physics beyond the Standard Model in the Higgs sector.</description>
     </item>
     
     <item>
