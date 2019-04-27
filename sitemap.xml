@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://joeycarter.github.io/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://joeycarter.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -36,6 +31,11 @@
     <loc>https://joeycarter.github.io/tags/education/</loc>
     <lastmod>2014-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joeycarter.github.io/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
