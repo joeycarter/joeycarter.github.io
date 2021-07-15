@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Dundas Street: Change the Namesake, not the Name</title>
+      <link>https://joeycarter.github.io/post/dundas-street/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://joeycarter.github.io/post/dundas-street/</guid>
+      <description>Every software developer will have at some point in their career been handed a messy, unkempt, monolithic piece of buggy code, strewn with poorly named functions and variables, and they will be tasked with bringing it up to date. There are in fact too tasks here: (a) fix the bugs, i.e. rectify the problems in the software that cause it to behave in an incorrect or unexpected way, and (b) tidy up the code so it looks prettier and easier to understand for the next poor soul who has to deal with it.</description>
+    </item>
+    
+    <item>
       <title>CV</title>
       <link>https://joeycarter.github.io/cv/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
